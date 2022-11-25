@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @RifkiSagas<br>
+🏫 I'm an Informatics Engineering Student<br>
 👀 I’m interested in Cyber Security<br>
 👨‍💻 I’m currently learning Cyber Security also
 
